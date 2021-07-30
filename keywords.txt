@@ -1,0 +1,3 @@
+piscaLed	KEYWORD1
+pisca 		KEYWORD2
+piscaTempo	KEYWORD2
